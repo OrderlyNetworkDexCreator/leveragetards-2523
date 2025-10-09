@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/LeverageTards",
   "VITE_SEO_SITE_NAME": "Leverage Tards",
   "VITE_SEO_SITE_DESCRIPTION": "Where Tards a.k.a RERE can set a 100x leverage and liquidate their house for some shit coins",
-  "VITE_SEO_SITE_URL": "https://leveragetards.com",
+  "VITE_SEO_SITE_URL": "https://caifu.dev",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@LeverageTards",
