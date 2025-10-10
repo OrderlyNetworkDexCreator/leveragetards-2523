@@ -3,13 +3,13 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 183 30 30;
+  --oui-color-primary-light: 214 76 76;
+  --oui-color-primary-darken: 123 20 20;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 221 44 44;
+  --oui-color-link-light: 228 68 68;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -97,8 +97,4 @@
 html, body {
   font-family: 'Manrope', sans-serif !important;
   font-size: 16px !important;
-}
-
-.oui-scaffold-footer-powered-by {
-display:none !important
 }
